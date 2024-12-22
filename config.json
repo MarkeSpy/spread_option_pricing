@@ -1,0 +1,10 @@
+{
+    "data_path": "./forward_prices.xlsx",
+    "alpha":0.15,
+    "drift":0.05,
+    "num_simulations":10000,
+    "quarters":["Q1", "Q2", "Q3", "Q4"],
+    "days_list": [90, 91, 92, 92],
+    "theta":0.1,
+    "discount_rate": 0.04
+}
