@@ -226,8 +226,6 @@ def MC_simulation(num_simulations, forward_prices_a, forward_prices_b, alpha, dr
     return all_spreads
 
 
-
-
 def option_price(spreads, days_list):
     """
     Compute the option price based on Monte Carlo simulated spreads.
