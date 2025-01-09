@@ -27,5 +27,5 @@ Ensure you have the following installed:
 1. Prepare the config.json file and data.xlsx file with your desired inputs.
 2. Run the script:
    ```bash
-  python main.py
+    python main.py
 3.The script outputs the fair value of the spread option for each simulation method.
