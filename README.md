@@ -28,4 +28,4 @@ Ensure you have the following installed:
 2. Run the script:
    ```bash
     python main.py
-3.The script outputs the fair value of the spread option for each simulation method.
+3.  The script outputs the fair value of the spread option for each simulation method.
