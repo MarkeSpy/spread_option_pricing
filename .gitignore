@@ -1,0 +1,12 @@
+# Ignore macOS .DS_Store
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+*-checkpoint.ipynb
+
+# Ignore Python compiled files
+*.pyc
+*.cpython*
+
+# Ignore other unnecessary files
+__pycache__/
